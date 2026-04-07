@@ -1,0 +1,4 @@
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net6.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net6.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net6.0\ConsoleApp.csproj.CoreCompileInputs.cache

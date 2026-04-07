@@ -1,0 +1,11 @@
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+C:\Users\NITRO\Is262E14Ejercicio03\src\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll
